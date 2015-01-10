@@ -60,3 +60,5 @@ logcat.txt
 .project
 .pydevproject
 
+#Project specific
+data/settings.py
